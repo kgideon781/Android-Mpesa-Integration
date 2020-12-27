@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "428159376239",
+    "firebase_url": "https://mpesaintegration-2e7fc.firebaseio.com",
+    "project_id": "mpesaintegration-2e7fc",
+    "storage_bucket": "mpesaintegration-2e7fc.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:428159376239:android:d82568d6b69b5ca7b0269a",
+        "android_client_info": {
+          "package_name": "com.giddy.mpesaintegration"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "428159376239-6g7jhcqtpm1hcpkoa6n9q78egcim11ag.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.giddy.mpesaintegration",
+            "certificate_hash": "b09271310ba4e3f2f7680ae49e6a3ab487cc045f"
+          }
+        },
+        {
+          "client_id": "428159376239-6deukj3rkbs640ufsobb5d1o4glnu3ln.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAQsIP-HPOcAlEHuu51Yoj5BvxVVaQeOg4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "428159376239-6deukj3rkbs640ufsobb5d1o4glnu3ln.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
